@@ -1,0 +1,19 @@
+{
+  "name": "electron_playground",
+  "version": "1.0.0",
+  "description": "Electron js playground",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.6",
+    "electron-packager": "^15.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "chokidar": "^3.4.2"
+  }
+}
